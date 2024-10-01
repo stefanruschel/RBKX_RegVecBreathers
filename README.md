@@ -16,7 +16,7 @@ Currently, all the data must be computed once due to the size constraints of Git
 
 To produce panels of Figures 1-4 please run:
 
-	PlotFigure1.m: Loads experimental data and data for main peak intensity and plots panel (b) of Fig. 1.
+	PlotFigure1.m: Loads experimental data and data for main peak intensity and plots panel (b) of Fig. 1. (check, expData check)
 	PlotFigure2.m: Loads maximum data for up and down sweep together with data for the torus curves and plots Fig.2(a)-(d).
  	PlotFigure3.m: Load numerically computed time series data and plots Fig.3(a)-(d).
  	PlotFigure4.m: Loads maximum data for up and down seep from A=2.5 and plots Fig.4(a)-(b).
