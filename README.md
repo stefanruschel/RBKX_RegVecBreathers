@@ -5,7 +5,7 @@ Source code by Stefan Ruschel to generate the data and figures for the paper:
 	Regenerative vectorial breathers in a delay-coupled neuromorphic microlaser with integrated saturable absorber (https://arxiv.org/abs/2409.20177)
 	by Stefan Ruschel, Venkata A. Pammi, Rémy Braive, Isabelle Sagnes, Grégoire Beaudoin, Neil G. R. Broderick, Bernd Krauskopf, Sylvain Barbay
 
-Folder expData contains experimentally obtained data. Folder pythonData contains time series of a corresponding mathametical model which are computed numerically using python package pydelay v 0.1.1 (https://pydelay.sourceforge.net/). Folder matlabData contains source code for numerical continuation of torus bifurcation curves; it is written for Matlab2020a, and uses the latest version of the software package "DDE-Biftool" (https://github.com/DDE-BifTool/DDE-Biftool).
+Folder expData contains experimentally obtained data. Folder pythonData contains time series of a corresponding mathametical model which are computed numerically using python package pydelay v 0.1.1 (https://pydelay.sourceforge.net/). This requires python 2.7. Folder matlabData contains source code for numerical continuation of torus bifurcation curves; it is written for Matlab2020a, and uses the latest version of the software package "DDE-Biftool" (https://github.com/DDE-BifTool/DDE-Biftool).
 
 In order to reproduce numerical simulation and pathfollowing results please execute: 
 
