@@ -15,7 +15,7 @@ In order to reproduce numerical simulation and pathfollowing results please exec
   	BifDiag_A_*.py for up and down sweep of peak pulse intensities starting from A=2.5 shown in Figure 4
   
 
-Currently, all the data must be computed once due to the size constraints of GitHub. Please change the scripts to load the correct address where your installation of DDE-Biftool is saved.
+Currently, matlabData/TorusCurves.m, pythonData/PolarMaxPeaksMesh.py, ./pythonData/PolarMaxPeaksMesh.py and pythonData/Figure3*.py must be run due to the size constraints of GitHub. Please change the scripts to load the correct path where your installation of DDE-Biftool is saved.
 
 To produce panels of Figures 1-4 (saved to folder img) please run:
 
